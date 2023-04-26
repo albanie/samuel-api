@@ -1,5 +1,6 @@
-# samuel-api
+![banner](assets/banner.png)
 
-The text completion API (together with documentation) can be accessed via [samuel-api.com](https://samuel-api.com).
+Samuel is a biological language model.
+He is available as a text completion API at [samuel-api.com](https://samuel-api.com).
 
-Please file bug reports as issues in the issue tracker.
+Please file API bug reports as issues in the issue tracker.
